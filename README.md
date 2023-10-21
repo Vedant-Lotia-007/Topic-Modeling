@@ -31,3 +31,7 @@ pip install numpy pandas sklearn gensim
     ```bash
     LDA-2.ipynb
     ```
+
+## Contact
+For any questions or clarifications, feel free to reach out at vedantlotia007@gmail.com or raise an issue on this GitHub repository.
+
