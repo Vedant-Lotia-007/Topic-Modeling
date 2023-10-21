@@ -16,6 +16,7 @@ Topic modeling uses an unsupervised machine learning method to scan a collect
 - Required Python Libraries: numpy, pandas, sklearn, gensim
 
 ## Installation
+
 Install the prerequisites using the command:
 ```bash
 pip install numpy pandas sklearn gensim
