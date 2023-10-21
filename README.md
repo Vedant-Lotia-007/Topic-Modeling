@@ -6,7 +6,7 @@ Topic modeling uses an unsupervised machine learning method to scan a collect
 ### Files Included
 1. `Topic Modeling.ipynb`
    - Topic modeling example to illustrate the whole idea about the topic. 
-2. `LDA-2.py`
+2. `LDA-2.ipynb`
     - Implements topic modeling using the Latent Dirichlet Allocation (LDA) algorithm.
 
 ## Getting Started
@@ -18,3 +18,14 @@ Topic modeling uses an unsupervised machine learning method to scan a collect
 Install the prerequisites using the command:
 ```bash
 pip install numpy pandas sklearn gensim
+```
+
+## Usage 
+1. `Topic Modeling.ipynb`
+    ```bash
+    python Topic Modeling.ipynb
+    ```
+2. `LDA-2.ipynb`
+    ```bash
+    LDA-2.ipynb
+    ```
